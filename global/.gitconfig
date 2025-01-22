@@ -1,0 +1,6 @@
+[user]
+	name = Xander Lutz
+	email = xander.lutz@gmail.com
+[core]
+	excludesfile = /Users/xander/.gitignore_global
+	autocrlf = input
